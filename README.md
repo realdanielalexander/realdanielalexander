@@ -17,14 +17,23 @@
 
 <details>
     <summary><h2>Select Projects</h2></summary>
-  <p align="left">
-    <a href="https://github.com/realdanielalexander/image-classification-flutter"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=image-classification-flutter&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false&" alt="image-classification-flutter"></a>
-    <a href="https://github.com/realdanielalexander/semantic-segmentation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=semantic-segmentation&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="semantic-segmentation"></a>
-    <a href="https://github.com/realdanielalexander/semantic-segmentation-api"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=semantic-segmentation-api&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="semantic-segmentation-api"></a>
-    <a href="https://github.com/realdanielalexander/entry-task"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=entry-task&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="entry-task"></a>
-    <a href="https://github.com/realdanielalexander/nantaboga"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=nantaboga&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="nantaboga"></a>
-    <a href="https://github.com/realdanielalexander/bangkit-backend"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=bangkit-backend&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="bangkit-backend"></a>
-  </p>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/realdanielalexander/image-classification-flutter"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=image-classification-flutter&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false&" alt="image-classification-flutter"></a></td>
+    <td>
+    <a href="https://github.com/realdanielalexander/semantic-segmentation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=semantic-segmentation&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="semantic-segmentation"></a></td>
+    <td> <a href="https://github.com/realdanielalexander/semantic-segmentation-api"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=semantic-segmentation-api&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="semantic-segmentation-api"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/realdanielalexander/entry-task"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=entry-task&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="entry-task"></a>
+    </td>
+    <td><a href="https://github.com/realdanielalexander/nantaboga"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=nantaboga&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="nantaboga"></a>
+    </td>
+    <td><a href="https://github.com/realdanielalexander/bangkit-backend"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=bangkit-backend&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="bangkit-backend"></a>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details open>
