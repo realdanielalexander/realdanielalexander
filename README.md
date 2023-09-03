@@ -32,8 +32,11 @@
 
 <detail>
     <summary>
-        </h4>Test</h4>
+        </h4>YouTube Videos</h4>
     </summary>
+    <!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
 </detail>
 
 <!--
