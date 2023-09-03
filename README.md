@@ -27,7 +27,8 @@
   </p>
 </details>
 
-<h2>YouTube Videos</h2>
+<details>
+    <summary><h2>YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
@@ -39,6 +40,8 @@
 [![[WITH TABS] Try Everything "Zootopia" - Shakira - Fingerstyle](https://ytcards.demolab.com/?id=5pwrwqwx9Ms&title=%5BWITH+TABS%5D+Try+Everything+%22Zootopia%22+-+Shakira+-+Fingerstyle&lang=en&timestamp=1457928610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 '[WITH TABS] Try Everything "Zootopia" - Shakira - Fingerstyle')](https://www.youtube.com/watch?v=5pwrwqwx9Ms)
 
 <!-- END YOUTUBE-CARDS -->
+
+</details>
 
 <!--
 **realdanielalexander/realdanielalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
