@@ -12,7 +12,8 @@
     <img alt="twitter" title="Follow me on Twitter" src="https://img.shields.io/badge/heydanzo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCiywQf9i39QRnhLPdduVNUw?sub_confirmation=1">
     <img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/heydanzo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    
+  <a href="https://www.tiktok.com/@heydanzo?is_from_webapp=1&sender_device=pc">
+    <img alt="tiktok" title="Follow me on Tiktok" src="https://img.shields.io/badge/heydanzo-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
 
 <details open>
