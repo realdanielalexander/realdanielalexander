@@ -15,7 +15,7 @@
     
 </p>
 
-<details>
+<details open>
     <summary><h2>Select Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/realdanielalexander/image-classification-flutter"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=realdanielalexander&repo=image-classification-flutter&theme=react&bg_color=1F222E&title_color=77E1FF&hide_border=true&icon_color=F8D866&show_icons=false&" alt="image-classification-flutter"></a>
@@ -27,7 +27,7 @@
   </p>
 </details>
 
-<details>
+<details open>
     <summary><h2>YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
